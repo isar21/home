@@ -1,0 +1,46 @@
+html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, font, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, dd, dl, dt, li, ol, ul, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td {
+border:0pt none;
+font-family:inherit;
+font-size:100%;
+font-style:inherit;
+font-weight:inherit;
+line-height:1.4;
+margin:0pt;
+padding:0pt;
+text-align:left;
+vertical-align:baseline;
+}
+
+a img, *:link img, *:visited img {
+border:0pt none;
+}
+
+table {
+border-collapse:collapse;
+border-spacing:0pt;
+}
+
+ol, ul {
+list-style-image:none;
+list-style-position:outside;
+list-style-type:none;
+}
+
+q:before, q:after, blockquote:before, blockquote:after {
+content:"";
+}
+
+input {
+vertical-align:middle;
+}
+
+.clear:after {
+clear:both;
+content:".";
+display:block;
+height:0pt;
+visibility:hidden;
+}
+
+.clear {
+}
